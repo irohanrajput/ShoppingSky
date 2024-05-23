@@ -1,0 +1,1 @@
+1). This line defines a nested serializer. It indicates that the OrderSerializer includes multiple OrderItemSerializer instances. The many=True argument specifies that we expect a list of order items.
